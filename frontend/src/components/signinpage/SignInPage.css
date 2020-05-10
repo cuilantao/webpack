@@ -1,0 +1,13 @@
+#loginpanel{
+    width: 400px;
+    height: 350px;
+    left:35%;
+    padding-top: 50px;
+    top: 20%;
+    padding-bottom: 50px;
+    position: absolute;
+}
+
+#signup_button{
+    float: right;
+}
